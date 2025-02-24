@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Javier Carrasco Arango</h1>
-<h3 align="center">An upcoming software engineer</h3>
+<h2 align="center">About me</h2>
+<p>I'm an upcoming software engineer, interested in team management, full stack development and cibersecurity.</p>
+<p>I expect to keep learning my whole career</p>
+<p>I’m currently studying the bilingual course at the University of Oviedo, with honours in operating systems and computer's electronic technologies (Tecnología Electrónica de Computadores).</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slavencer&label=Profile%20views&color=0e75b6&style=flat" alt="slavencer" /> </p>
+<h2 align="left">Connect with me:</h2>
+<p align="left"><a href="https://www.leetcode.com/slavencer" target="blank">Leetcode</a></p>
+<p align="left"><a href="https://www.linkedin.com/in/javiercarrascoarango" target="blank">Linkedin</a></p>
 
-- 🌱 I’m currently learning **at the University of Oviedo**
+<h2 align="left">Stats</h2>
+![Slavencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slavencer&show_icons=true&theme=aura)
+![Leetcode Stats](https://leetcard.jacoblin.cool/slavencer)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/8pzqhkk746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="slavencer" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h2 align="left">Languages and Tools:</h2>
+<ul>I have experience with the following technologies:
+<li>Languages: Python, JavaScript, Java, C++, C/C# </li>
+<li>Web Development: React, Node, HTML5 and CSS3 following web accesibility and usability standards </li>
+<li>Databases: MySQL, SQLite, MongoDB, Neo4j </li>
+<li>Version Control: Git, GitHub, BitBucket </li>
+<li>Tools: Docker, Apache tomcat, xampp, Eclipse and windowbuilder, intellij, vim, SQLDeveloper, Matlab </li>
+</ul>
 
