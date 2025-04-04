@@ -8,10 +8,11 @@ I expect to keep learning my whole career.
 
 I’m currently studying the bilingual course at the University of Oviedo, with honours in operating systems and computer's electronic technologies (Tecnología Electrónica de Computadores).
 
-## Connect with me:
+## Contact:
 
 - [Leetcode](https://www.leetcode.com/slavencer)
 - [Linkedin](https://www.linkedin.com/in/javiercarrascoarango)
+- [Signal](https://signal.me/#eu/-gnbaFEXeBNhNFGqMfudDoDDlm3wNsL8Lp9-wxskdujg7n359tNPd4hCf2Tyb5wC)
 
 ## Stats
 
