@@ -24,6 +24,7 @@ I have experience with the following technologies:
 
 - **Languages**: Greatly proficcient in Java, and fluent in Python, JavaScript, C#, with basic knowledge in C++ and C (mostly dealing with pointers).
 - **Web Development**: React, Node.js, express, HTML5, and CSS3 following web accessibility and usability standards
+- **Html template engines**: Pug and Thymeleaf
 - **Databases**: MySQL, SQLite (using queries for all sql systems), MongoDB, Neo4j
 - **Version Control**: Git, GitHub, BitBucket
 - **Tools**: Docker and docker compose files, Apache Tomcat, XAMPP, Eclipse and WindowBuilder, IntelliJ, Vim, SQLDeveloper, Matlab
