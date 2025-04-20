@@ -22,9 +22,9 @@ I’m currently studying the bilingual course at the University of Oviedo, with 
 
 I have experience with the following technologies:
 
-- **Languages**: Python, JavaScript, Java, C++, C/C#
-- **Web Development**: React, Node, HTML5, and CSS3 following web accessibility and usability standards
-- **Databases**: MySQL, SQLite, MongoDB, Neo4j
+- **Languages**: Greatly proficcient in Java, and fluent in Python, JavaScript, C#, with basic knowledge in C++ and C (mostly dealing with pointers).
+- **Web Development**: React, Node.js, express, HTML5, and CSS3 following web accessibility and usability standards
+- **Databases**: MySQL, SQLite (using queries for all sql systems), MongoDB, Neo4j
 - **Version Control**: Git, GitHub, BitBucket
-- **Tools**: Docker, Apache Tomcat, XAMPP, Eclipse and WindowBuilder, IntelliJ, Vim, SQLDeveloper, Matlab
+- **Tools**: Docker and docker compose files, Apache Tomcat, XAMPP, Eclipse and WindowBuilder, IntelliJ, Vim, SQLDeveloper, Matlab
 
