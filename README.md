@@ -23,7 +23,7 @@ I’m currently studying the bilingual course at the University of Oviedo, with 
 I have experience with the following technologies:
 
 - **Languages**: Greatly proficcient in Java, and fluent in Python, JavaScript, C#, with basic knowledge in C++ and C (mostly dealing with pointers).
-- **Web Development**: React, Node.js, express, HTML5, and CSS3 following web accessibility and usability standards
+- **Web Development**: React, Astro, Node.js, express, HTML5, and CSS3 following web accessibility and usability standards
 - **Html template engines and view technologies**: Twig and Thymeleaf, boostrap, and views in java using swing
 - **Databases**: MySQL, SQLite (using queries for all sql systems), MongoDB, Neo4j
 - **Version Control**: Git, GitHub, BitBucket
