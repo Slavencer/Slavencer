@@ -16,7 +16,7 @@ I’m currently studying the bilingual course at the University of Oviedo, with 
 
 ## Stats
 
-![Slavencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slavencer&show_icons=true&theme=aura) ![Leetcode Stats](https://leetcard.jacoblin.cool/slavencer)
+![Y4vra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y4vra&show_icons=true&theme=aura) ![Leetcode Stats](https://leetcard.jacoblin.cool/slavencer)
 
 ## Languages and Tools:
 
